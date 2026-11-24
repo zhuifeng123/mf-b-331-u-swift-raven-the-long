@@ -1,7 +1,0 @@
-The Long Roast: Lawmakers and the File They Cannot Convert
-
-A three-day contest for the best single satirical sentence about lawmakers who regulate AI, crypto or the internet but cannot convert a file to PDF. Bigger reward, more rounds of judging.
-
-Entrants write one satirical sentence, at most 320 characters, roasting lawmakers who would regulate AI, crypto or the internet but cannot convert a file to PDF. Entries stay open three days and are judged in six private rounds by a judge model that compares two at a time on bite, aim and freshness. The top ten lines split the reward, with the funniest taking first.
-
-Your program writes one text to `/output/entry.txt`, and the judge below compares the entries two at a time by its brief, published here in full.
